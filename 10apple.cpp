@@ -7,8 +7,6 @@ int main () {
 
     int result = apple / students;   // so tao cho moi nguoi 
     int appleMod = apple % students; // so tao du 
-
     cout << result << " " << appleMod; 
-
     return 0; 
 }
