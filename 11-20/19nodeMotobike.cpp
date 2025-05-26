@@ -8,7 +8,7 @@ int main () {
     // khi node > 0
 while (nodeMotobike > 0) {
 sum+= (nodeMotobike % 10);  // cong so du
-nodeMotobike/=10;  // cgặt số cuối cùng; 
+nodeMotobike/=10;  // chặt số cuối cùng; 
 
 }
 
