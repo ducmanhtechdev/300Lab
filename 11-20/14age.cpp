@@ -18,9 +18,6 @@ int main () {
     }
     else if (age > 0) {
         cout << "Thieu nhi"; 
-    }
- 
-
-    
+    }    
     return 0; 
 }
