@@ -5,9 +5,11 @@ int main () {
     int nodeMotobike; cin >> nodeMotobike; 
     int sum = 0; 
 
+    // khi node > 0
 while (nodeMotobike > 0) {
-sum+= (nodeMotobike % 10); 
-nodeMotobike/=10; 
+sum+= (nodeMotobike % 10);  // cong so du
+nodeMotobike/=10;  // cgặt số cuối cùng; 
+
 }
 
 
